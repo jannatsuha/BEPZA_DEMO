@@ -1,0 +1,4 @@
+#Sat May 15 08:17:09 BDT 2021
+base.0=F\:\\BEPZA\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
